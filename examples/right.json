@@ -1,5 +1,5 @@
 [
   {"jsonrpc":"2.0","id":"receipts","error":{"code":-32601,"message":"Method not found"}},
   {"jsonrpc":"2.0","id":"9007199254740993","result":"0x539"},
-  {"jsonrpc":"2.0","id":9007199254740993,"result":{"reward":[["0x2"],["0x4"]],"gasUsedRatio":[5e-1,0.7500],"baseFeePerGas":["0x10","0x12","0x13"],"oldestBlock":"0xff"}}
+  {"jsonrpc":"2.0","id":9007199254740993,"result":{"reward":[["0x2"],["0x4"]],"gasUsedRatio":[5e-1,0.7500],"baseFeePerGas":["0x10","0x10","0x11"],"oldestBlock":"0xff"}}
 ]

@@ -1,5 +1,5 @@
 [
-  {"jsonrpc":"2.0","id":9007199254740993,"result":{"oldestBlock":"0xff","baseFeePerGas":["0x10","0x12","0x13"],"gasUsedRatio":[0.5,0.75],"reward":[["0x2"],["0x3"]]}},
+  {"jsonrpc":"2.0","id":9007199254740993,"result":{"oldestBlock":"0xff","baseFeePerGas":["0x10","0x10","0x11"],"gasUsedRatio":[0.5,0.75],"reward":[["0x2"],["0x3"]]}},
   {"jsonrpc":"2.0","id":"9007199254740993","result":"0x539"},
   {"jsonrpc":"2.0","id":"receipts","result":[]}
 ]

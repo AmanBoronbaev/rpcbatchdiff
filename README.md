@@ -11,7 +11,7 @@ go build -o rpcbatchdiff .
 ./rpcbatchdiff examples/requests.json examples/left.json examples/right.json
 ```
 
-The synthetic fixtures describe calls against block `0x100` on a local chain. The second capture reorders the replies, gives a different priority fee and reports an unavailable receipts method.
+The synthetic fixtures cover a fee-history window ending at block `0x100` and receipts for the empty block `0xfe` on a local chain. The second capture reorders the replies, gives a different priority fee and reports an unavailable receipts method.
 
 ```text
 calls=3 notifications=0 matched=1 matched_errors=0 findings=2
